@@ -27,5 +27,5 @@ The problem that this project solves is determined by the following input and ou
 <a name="factors"></a>
 ## CONTRIBUTING FACTORS TO THE RESULTS OF COMPARATIONS    
 The comparations are based on two following factors: 
-    1. Time of each sorting method costs to sort a certain number of elements 
-    2. The number of elements
++    1. Time of each sorting method costs to sort a certain number of elements 
++    2. The number of elements
