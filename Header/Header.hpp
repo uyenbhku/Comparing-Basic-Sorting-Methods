@@ -1,6 +1,3 @@
-#ifndef __HEADER_INCLUDED__
-#define __HEADER_INCLUDED__
-
 #include <iostream>
 #include <ctime> // time calculating 
 #include <fstream> // log in input and save output
@@ -63,5 +60,3 @@ void ShkS(const int&);
 // Shell Sort process
 // @param index the index of the file
 void SheS(const int&);
-
-#endif  //__HEADER_INCLUDED__
