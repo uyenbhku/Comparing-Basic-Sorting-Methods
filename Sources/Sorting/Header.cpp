@@ -1,3 +1,4 @@
+#pragma once
 #include "../../Header/Header.hpp"
 
 template<typename T>
