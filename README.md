@@ -31,6 +31,7 @@ The comparations are based on two following factors:
 +    2. The number of elements
 
 ## PROGRESS:
+*    Automatically generate test files for a given size `n`: Done ✅
 *    Read input/Export output, log file: Done ✅
 *    Bubble Sort: finish creating template, not implementing algorithm yet
 *    Interchange Sort: finish creating template, not implementing algorithm yet
